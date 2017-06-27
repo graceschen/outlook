@@ -1,0 +1,2 @@
+# outlook
+open outlook template
