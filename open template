@@ -1,0 +1,5 @@
+Sub MakeItem()
+Set newItem = Application.CreateItemFromTemplate("C:\Users\grace.chen\AppData\Roaming\Microsoft\Templates\*.oft")
+newItem.Display
+Set newItem = Nothing
+End Sub 
